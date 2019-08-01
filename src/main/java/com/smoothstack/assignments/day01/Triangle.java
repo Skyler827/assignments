@@ -1,11 +1,11 @@
-package com.smoothstack.assignments.week1;
+package com.smoothstack.assignments.day01;
 
 import java.io.BufferedReader; 
 import java.io.IOException; 
 import java.io.InputStreamReader; 
 import java.util.Arrays;
 
-public class Day1Triangle
+public class Triangle
 {
     public static void main(String[] args ) {
         System.out.println("Welcome to the triangle generator!");
