@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader; 
 import java.util.Arrays;
 
-public class Triangle
+public class Day1Triangle
 {
     public static void main(String[] args ) {
         System.out.println("Welcome to the triangle generator!");
