@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharCounter",
+            "request": "launch",
+            "mainClass": "com.smoothstack.assignments.day03.CharCounter",
+            "projectName": "assignments"
+        }
+    ]
+}
